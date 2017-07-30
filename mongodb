@@ -1,0 +1,76 @@
+
+
+home:
+id,title,price,image
+g1,g2~g10
+
+
+{id:1,img:'src/assets/images/g1.jpg',title:'钻石雪域牛乳芝士蛋糕',view:'Diamond Cheesecake',price:'286'}
+
+{id:1,img:'src/assets/images/g2.jpg',title:'雪域牛乳芝士蛋糕',view:'Le Cheesecake',price:'176'}
+
+[
+{id:1,img:'src/assets/images/g3.jpg',title:'雪域蓝莓芝士蛋糕',view:'Blueberry Cheesecake',price:'194'},
+{id:2,img:'src/assets/images/g4.jpg',title:'芒果熔岩星蛋糕',view:'Mango Planet',price:'318'},
+{id:3,img:'src/assets/images/g5.jpg',title:'玫瑰雪域芝士蛋糕',view:'Rose Cheese cake',price:'218'},
+{id:4,img:'src/assets/images/g6.jpg',title:'芒果雪域芝士蛋糕',view:'Mango Cheesecake',price:'206'},
+{id:5,img:'src/assets/images/g7.jpg',title:'芒果千层拿破仑蛋糕',view:'Mango Mille-feuilles',price:'186'},
+{id:6,img:'src/assets/images/g8.jpg',title:'芒果心愿盒蛋糕',view:'Mango Box',price:'296'},
+{id:7,img:'src/assets/images/g9.jpg',title:'梵尼兰开心花园蛋糕',view:'Vanilla Happy Garden',price:'266'}
+]
+
+
+products:
+id,title,price,cost,discount,number,view
+m1~m9
+[
+{id:1,img:'src/assets/images/m1.jpg',title:'情定爱情海',price:'208',cost:'188',discount:'9%',number:1,view:'Love of Aegean Sea'},
+{id:2,img:'src/assets/images/m2.jpg',title:'狮子王',price:'208',cost:'188',discount:'9%',number:1,view:'Lion King'},
+{id:3,img:'src/assets/images/m3.jpg',title:'浓情花意',price:'208',cost:'188',discount:'9%',number:1,view:'Love of Folower'},
+{id:4,img:'src/assets/images/m4.jpg',title:'熊蛋糕',price:'208',cost:'188',discount:'9%',number:1,view:'PAPI PAPI'},
+{id:5,img:'src/assets/images/m5.jpg',title:'黑白配',price:'208',cost:'188',discount:'9%',number:1,view:'Black and white'},
+{id:6,img:'src/assets/images/m6.jpg',title:'椰香芒芒',price:'208',cost:'188',discount:'9%',number:1,view:'Coconut and Mango'},
+{id:7,img:'src/assets/images/m7.jpg',title:'新天鹅堡情人',price:'208',cost:'188',discount:'9%',number:1,view:'Newswan Castle Lover'},
+{id:8,img:'src/assets/images/m8.jpg',title:'马卡龙の吻',price:'208',cost:'188',discount:'9%',number:1,view:'Macaron Kiss'},
+{id:9,img:'src/assets/images/m9.jpg',title:'草莓拿破仑',price:'208',cost:'188',discount:'9%',number:1,view:'Strawberry Napoleon '}
+]
+
+
+
+details:
+img1,img2,img3,chin,eng,price,sweet,size,number
+[
+{id:1,img1:'src/assets/images/ma.jpg',img2:'src/assets/images/mb.jpg',img3:'src/assets/images/mc.jpg', price:'188',sweet:'3颗星',number:1,size:'13.5*13.5',chin:'松软的戚风胚加上特制乳脂奶油的柔滑，浪漫的气息萦绕身旁，仿佛置身简单美好的纯白世界。',eng:'The moment of the cream entering, gentle and delicate girl’s feelings are slowly stirred. Soft chiffon embryo with a special silky cream, romantic atmosphere lingers around you, as if you were in a simple, beautiful and pure white world.'},
+{id:2,img1:'src/assets/images/m2a.jpg',img2:'src/assets/images/m2b.jpg',img3:'src/assets/images/m2c.jpg', price:'188',sweet:'3颗星',number:1,size:'13.5*13.5',chin:'每一个陪着我们成长的故事，都不曾消失。就像看到新狮子王的一刹，童年的回忆又被勾起……',eng:' Each story accompanied us to grow up, will not disappear. The moment you see the new lion king, childhood memories will be all brought back.'},
+{id:3,img1:'src/assets/images/m3a.jpg',img2:'src/assets/images/m3b.jpg',img3:'src/assets/images/m3c.jpg', price:'188',sweet:'3颗星',number:1,size:'13.5*13.5',chin:'温柔如天使般的戚风胚，带来出乎意料的松软，丝滑如冰淇淋的奶油，带来入口即化的奇妙',eng:' Chiffon embryo as an angel, brings you surprisingly soft. Cream as an ice-cream, brings wonderful taste that melt in your mouth.'},
+{id:4,img1:'src/assets/images/m4a.jpg',img2:'src/assets/images/m4b.jpg',img3:'src/assets/images/m4c.jpg', price:'188',sweet:'3颗星',number:1,size:'13.5*13.5',chin:'我是PAPI熊，萌萌的脸，软软的心，想这样看着你嬉笑打闹，永远无忧无虑，童心未泯。',eng:' I am PAPI Bear, cute face, soft heart, want to watch you laughing and playing happily, without sorrow and anxiety forever, and never obliterate childlike heart.'},
+{id:5,img1:'src/assets/images/m5a.jpg',img2:'src/assets/images/m5b.jpg',img3:'src/assets/images/m5c.jpg', price:'188',sweet:'3颗星',number:1,size:'13.5*13.5',chin:'双重经典的完美组合，将满足你的所有贪心，一次治愈你的选择恐惧。',eng:'The perfect combination of double classic will satisfy all your greed, once to cure your allodoxaphobia.'},
+{id:6,img1:'src/assets/images/m6a.jpg',img2:'src/assets/images/m6b.jpg',img3:'src/assets/images/m6c.jpg', price:'188',sweet:'2颗星',number:1,size:'13.5*13.5',chin:'入口的下一秒，尝到的是芒果和百香果搭配的完美夹层，交替挑动着味蕾，层次分明又融而一体。一品难忘的滋味，正是如此。',eng:'The next second of putting into your mouth, tastes the perfect filling of mango and passion fruit, alternately touching the taste buds, clear and mixed.'},
+{id:7,img1:'src/assets/images/m7a.jpg',img2:'src/assets/images/m7b.jpg',img3:'src/assets/images/m7c.jpg', price:'188',sweet:'3颗星',number:1,size:'13.5*13.5',chin:'位于阿尔卑斯山麓的新天鹅城堡里，骑士和公主，如巧克力和奶酪般相遇。黑与白、热情与温婉,留下童话般的浪漫。',eng:'In New Swan Castle located in Alps, knight and princess, just like the chocolate and cheese encounters. Black and white,lingering blend, leaves a fairy-tale romance.'},
+{id:8,img1:'src/assets/images/m8a.jpg',img2:'src/assets/images/m8b.jpg',img3:'src/assets/images/m8c.jpg', price:'188',sweet:'4颗星',number:1,size:'13.5*13.5',chin:'一切只为给爱生活的你， 增添一份温馨与甜蜜。',eng:'Everything is only for	the	one who love the life,adding a piece of warm and sweet.'},
+{id:9,img1:'src/assets/images/m9a.jpg',img2:'src/assets/images/m9b.jpg',img3:'src/assets/images/m9c.jpg', price:'188',sweet:'3颗星',number:1,size:'13.5*13.5',chin:'当拿破仑邂逅如红宝石般的草莓，经典在果香中弥漫！',eng:'When Napoleon encounter, such as ruby-like strawberries, the classic in the fruity filled!'},
+]
+
+
+
+
+detail:
+id,title,price,cost,discount
+m1~m4
+[
+{id:1,img:'src/assets/images/m1.jpg',title:'情定爱情海',price:'208',cost:'188',discount:'9%',number:1,view:'Love of Aegean Sea'},
+{id:2,img:'src/assets/images/m2.jpg',title:'狮子王',price:'208',cost:'188',discount:'9%',number:1,view:'Lion King'},
+{id:3,img:'src/assets/images/m3.jpg',title:'浓情花意',price:'208',cost:'188',discount:'9%',number:1,view:'Love of Folower'},
+{id:4,img:'src/assets/images/m4.jpg',title:'熊蛋糕',price:'208',cost:'188',discount:'9%',number:1,view:'PAPI PAPI'}
+]
+
+
+
+
+
+user:
+id,user,password,email
+[{name:'aa',password:'alss123',email:'1136810028@qq.com'},
+{name:'bb',password:'123456',email:'1131810028@qq.com'},
+{name:'cc',password:'al21ss',email:'1036810028@qq.com'}
+]
